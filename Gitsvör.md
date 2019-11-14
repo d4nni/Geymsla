@@ -25,3 +25,8 @@
 
 6. Maður á að commita (gera færslur) í verkefni eins oft og manni finnst 
    vera þörf.
+
+7. Working Directory er sú mappa sem maður er að vinna í til þess að senda í
+   repository.
+   Staging Area er stig þar sem maður er að græja það sem maður ætlar að
+   senda í repository.
