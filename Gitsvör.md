@@ -13,5 +13,9 @@
    greinar og checkouta fjarstýrðar greinar.
    git branch = gerir manni kleift að búa til, endurnefna og eyða greinum.
 
-
+4. Útgáfustýring er þegar að hægt er að vinna í skjölum og möppum án þess að
+   breyta öllu í einu. T.d. að þegar unnið er að hópverkefni er tilvalið að 
+   hafa Version Control þar sem að allir í hópnum geta unnið í sitthvorum 
+   enda heimsins og síðan breytist aðalskjalið ekki fyrr en búið er að 
+   commita því.
 
