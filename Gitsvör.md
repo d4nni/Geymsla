@@ -19,3 +19,6 @@
    enda heimsins og síðan breytist aðalskjalið ekki fyrr en búið er að 
    commita því.
 
+5. Helstu kostir við GIT er að hægt er að nota skjöl og eldri útgáfur af 
+   skjölum þótt að þeim sé eytt. Hægt er að commita í sífellu og hægt er að 
+   taka saman og velja það sem manni líst best á.
