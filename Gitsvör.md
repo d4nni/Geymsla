@@ -17,5 +17,6 @@
    breyta öllu í einu. T.d. að þegar unnið er að hópverkefni er tilvalið að 
    hafa Version Control þar sem að allir í hópnum geta unnið í sitthvorum 
    enda heimsins og síðan breytist aðalskjalið ekki fyrr en búið er að 
-   commita því.
+   commita því. Hér get ég sagt mína skoðun á Git umsjónarkerfinu, Mér finnst
+   það frábært. Ok bæ.
 
