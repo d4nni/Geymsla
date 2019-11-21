@@ -32,3 +32,6 @@ http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-ca
 * Flour
 * Cheese
 * Tomatoes
+1. Cut the cheese
+2. Slice the tomatoes
+3. Rub the tomatoes in flour
