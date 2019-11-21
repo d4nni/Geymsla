@@ -16,3 +16,4 @@ Here's some words about the book _One Hundred Years...._
 Do you want to [see something fun][a fun place]: www.zombo.com?
 
 Well, do I have [the website for you][another fun place]: www.stumbleupon.com!
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
